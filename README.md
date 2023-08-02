@@ -27,3 +27,10 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 
+
+## Output
+
+<!---![`logo`](logo.svg) --->
+<!---![`triangle`](examples/triangle.svg) --->
+<!---![`circle`](examples/circle.svg) --->
+<!---![`square`](examples/square.svg) --->
