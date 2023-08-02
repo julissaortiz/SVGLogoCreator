@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.9",
+    "svg.js": "^2.7.1"
+  },
+  "name": "svglogocreator",
+  "version": "1.0.0",
+  "description": "creating a logo",
+  "main": "logoGenerator.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/julissaortiz/SVGLogoCreator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julissaortiz/SVGLogoCreator/issues"
+  },
+  "homepage": "https://github.com/julissaortiz/SVGLogoCreator#readme"
+}
